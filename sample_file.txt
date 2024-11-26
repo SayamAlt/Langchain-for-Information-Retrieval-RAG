@@ -1,0 +1,3 @@
+This is a text file created using Python!
+You can write any text you want.
+Make sure to close the file after writing.

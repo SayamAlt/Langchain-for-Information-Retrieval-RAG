@@ -1,0 +1,1 @@
+Replace '/path/to/new/directory' with the path of the directory you want to change to.

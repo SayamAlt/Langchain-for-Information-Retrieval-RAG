@@ -1,0 +1,1 @@
+You can use os.getcwd() to verify that the current working directory has been successfully changed. This function returns the current working directory.
